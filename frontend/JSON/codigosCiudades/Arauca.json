@@ -1,0 +1,9 @@
+[
+  { "Ciudad": "Arauca", "Departamento": "Arauca", "CodigoDIAN": "81001" },
+  { "Ciudad": "Arauquita", "Departamento": "Arauca", "CodigoDIAN": "81065" },
+  { "Ciudad": "Cravo Norte", "Departamento": "Arauca", "CodigoDIAN": "81220" },
+  { "Ciudad": "Fortul", "Departamento": "Arauca", "CodigoDIAN": "81300" },
+  { "Ciudad": "Puerto Rondón", "Departamento": "Arauca", "CodigoDIAN": "81591" },
+  { "Ciudad": "Saravena", "Departamento": "Arauca", "CodigoDIAN": "81736" },
+  { "Ciudad": "Tame", "Departamento": "Arauca", "CodigoDIAN": "81794" }
+]

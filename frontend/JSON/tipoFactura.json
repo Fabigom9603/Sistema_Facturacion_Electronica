@@ -1,0 +1,7 @@
+[
+  { "nombre": "Factura electrónica de Venta", "codigo": "01" },
+  { "nombre": "Factura electrónica de venta -exportació", "codigo": "02" },
+  { "nombre": "Instrumento electrónico de transmisión – tipo 03", "codigo": "03" },
+  { "nombre": "Factura electrónica de Venta - tipo 04", "codigo": "04" }
+ 
+]

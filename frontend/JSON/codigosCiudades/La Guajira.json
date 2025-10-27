@@ -1,0 +1,17 @@
+[
+  {"Ciudad": "Riohacha", "Departamento": "La Guajira", "CodigoDIAN": "44001"},
+  {"Ciudad": "Albania", "Departamento": "La Guajira", "CodigoDIAN": "44035"},
+  {"Ciudad": "Barrancas", "Departamento": "La Guajira", "CodigoDIAN": "44078"},
+  {"Ciudad": "Dibulla", "Departamento": "La Guajira", "CodigoDIAN": "44090"},
+  {"Ciudad": "Distracción", "Departamento": "La Guajira", "CodigoDIAN": "44098"},
+  {"Ciudad": "El Molino", "Departamento": "La Guajira", "CodigoDIAN": "44110"},
+  {"Ciudad": "Fonseca", "Departamento": "La Guajira", "CodigoDIAN": "44279"},
+  {"Ciudad": "Hato Nuevo", "Departamento": "La Guajira", "CodigoDIAN": "44378"},
+  {"Ciudad": "La Jagua Del Pilar", "Departamento": "La Guajira", "CodigoDIAN": "44420"},
+  {"Ciudad": "Maicao", "Departamento": "La Guajira", "CodigoDIAN": "44430"},
+  {"Ciudad": "Manaure", "Departamento": "La Guajira", "CodigoDIAN": "44560"},
+  {"Ciudad": "San Juan Del Cesar", "Departamento": "La Guajira", "CodigoDIAN": "44650"},
+  {"Ciudad": "Uribia", "Departamento": "La Guajira", "CodigoDIAN": "44847"},
+  {"Ciudad": "Urumita", "Departamento": "La Guajira", "CodigoDIAN": "44855"},
+  {"Ciudad": "Villanueva", "Departamento": "La Guajira", "CodigoDIAN": "44874"}
+]

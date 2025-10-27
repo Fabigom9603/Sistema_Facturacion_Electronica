@@ -1,0 +1,42 @@
+  document.getElementById("formCliente").addEventListener("submit", function (e) {
+    e.preventDefault(); // Previene que se recargue la página
+
+    // Capturamos los valores del formulario
+    const tipoDoc = document.getElementById("tipoDocmodal").value;
+    const numeroIdentificacion = document.getElementById("numeroidentificacion").value;
+    const apellidos = document.getElementById("apellidos").value;
+    const nombres = document.getElementById("nombres").value;
+    const telefono = document.getElementById("telefono").value;
+    const email = document.getElementById("email").value;
+
+    // Creamos el objeto JSON
+    const datos = {
+      IdentityDocument: numeroIdentificacion,
+      name: nombres,
+      lastName: apellidos,
+      phone: telefono,
+      email: email,
+      documentType: tipoDoc // este nombre depende de tu backend
+    };
+
+    console.log("JSON generado:", JSON.stringify(datos));
+
+    // Enviar por fetch (opcional):
+    /*
+    fetch("http://localhost/panther/rest/persons", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "tu_token_aquí"
+      },
+      body: JSON.stringify(datos)
+    })
+    .then(res => res.json())
+    .then(data => {
+      console.log("Respuesta del servidor:", data);
+    })
+    .catch(error => {
+      console.error("Error al enviar:", error);
+    });
+    */
+  });

@@ -1,0 +1,13 @@
+[
+  { "Ciudad": "Leticia", "Departamento": "Amazonas", "CodigoDIAN": "91001" },
+  { "Ciudad": "El Encanto", "Departamento": "Amazonas", "CodigoDIAN": "91263" },
+  { "Ciudad": "La Chorrera", "Departamento": "Amazonas", "CodigoDIAN": "91405" },
+  { "Ciudad": "La Pedrera", "Departamento": "Amazonas", "CodigoDIAN": "91407" },
+  { "Ciudad": "La Victoria", "Departamento": "Amazonas", "CodigoDIAN": "91430" },
+  { "Ciudad": "Miriti,Paraná", "Departamento": "Amazonas", "CodigoDIAN": "91460" },
+  { "Ciudad": "Puerto Alegría", "Departamento": "Amazonas", "CodigoDIAN": "91530" },
+  { "Ciudad": "Puerto Arica", "Departamento": "Amazonas", "CodigoDIAN": "91536" },
+  { "Ciudad": "Puerto Nariño", "Departamento": "Amazonas", "CodigoDIAN": "91540" },
+  { "Ciudad": "Puerto Santander", "Departamento": "Amazonas", "CodigoDIAN": "91669" },
+  { "Ciudad": "Tarapacá", "Departamento": "Amazonas", "CodigoDIAN": "91798" }
+]

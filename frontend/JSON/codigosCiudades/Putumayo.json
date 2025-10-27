@@ -1,0 +1,15 @@
+[
+  {"Ciudad": "Mocoa", "Departamento": "Putumayo", "CodigoDIAN": "86001"},
+  {"Ciudad": "Colón", "Departamento": "Putumayo", "CodigoDIAN": "86219"},
+  {"Ciudad": "Orito", "Departamento": "Putumayo", "CodigoDIAN": "86320"},
+  {"Ciudad": "Puerto Asís", "Departamento": "Putumayo", "CodigoDIAN": "86568"},
+  {"Ciudad": "Puerto Caicedo", "Departamento": "Putumayo", "CodigoDIAN": "86569"},
+  {"Ciudad": "Puerto Guzmán", "Departamento": "Putumayo", "CodigoDIAN": "86571"},
+  {"Ciudad": "Leguízamo", "Departamento": "Putumayo", "CodigoDIAN": "86573"},
+  {"Ciudad": "Sibundoy", "Departamento": "Putumayo", "CodigoDIAN": "86749"},
+  {"Ciudad": "San Francisco", "Departamento": "Putumayo", "CodigoDIAN": "86755"},
+  {"Ciudad": "San Miguel", "Departamento": "Putumayo", "CodigoDIAN": "86757"},
+  {"Ciudad": "Santiago", "Departamento": "Putumayo", "CodigoDIAN": "86760"},
+  {"Ciudad": "Valle Del Guamuez", "Departamento": "Putumayo", "CodigoDIAN": "86865"},
+  {"Ciudad": "Villagarzón", "Departamento": "Putumayo", "CodigoDIAN": "86885"}
+]

@@ -1,0 +1,77 @@
+[
+   {
+    "nombreRazonSocial": "No registrado",
+    "tipoIdentificacion": "NA",
+    "numIdentificacion": "RegistrarCliente"
+  },
+  {
+  "nombreRazonSocial": "CONSUMIDOR FINAL",
+  "tipoIdentificacion": "NI",
+  "numIdentificacion": "222222222222",
+  "naturaleza": "NATURAL",
+  "email":"consumidor@email.com",
+  "respFiscales": "NOA",
+  "respTributarias": "NOA"
+  },
+  {
+    "nombreRazonSocial": "Comercializadora Los Andes S.A.S.",
+    "tipoIdentificacion": "NI",
+    "numIdentificacion": "900123456",
+    "naturaleza": "JURIDICA",
+    "email": "contacto@losandes.com",
+    "respFiscales": "GRC",
+    "respTributarias": "IVA",
+    "direccion": "Av. El Dorado #68-95 Piso 3",
+    "ciudad": "11001",
+    "telefono": "3104567890"
+  },
+  {
+    "nombreRazonSocial": "Inversiones La Montaña Ltda.",
+    "tipoIdentificacion": "NI",
+    "numIdentificacion": "830456789",
+    "naturaleza": "JURIDICA",
+    "email": "ventas@lamontana.com",
+    "respFiscales": "GRC",
+    "respTributarias": "IVA",
+    "direccion": "Calle 72 #10-33 Oficina 201",
+    "ciudad": "05001",
+    "telefono": "3001234567"
+  },
+  {
+    "nombreRazonSocial": "Distribuciones El Faro S.A.",
+    "tipoIdentificacion": "NI",
+    "numIdentificacion": "901234567",
+    "naturaleza": "JURIDICA",
+    "email": "info@elfaro.co",
+    "respFiscales": "GRC",
+    "respTributarias": "IVA",
+    "direccion": "Carrera 45 #26-50 Local 5",
+    "ciudad": "76001",
+    "telefono": "3119876543"
+  },
+  {
+    "nombreRazonSocial": "TecnoGlobal SAS",
+    "tipoIdentificacion": "NI",
+    "numIdentificacion": "900987654",
+    "naturaleza": "JURIDICA",
+    "email": "administracion@tecnoglobal.com",
+    "respFiscales": "GRC",
+    "respTributarias": "IVA",
+    "direccion": "Transversal 93 #42-11 Bodega 8",
+    "ciudad": "08001",
+    "telefono": "3124567891"
+  },
+  {
+    "nombreRazonSocial": "Alimentos del Valle S.A.S.",
+    "tipoIdentificacion": "NI",
+    "numIdentificacion": "901112223",
+    "naturaleza": "JURIDICA",
+    "email": "compras@alivalle.co",
+    "respFiscales": "GRC",
+    "respTributarias": "IVA",
+    "direccion": "Diagonal 23 #56-09 Zona Industrial",
+    "ciudad": "76001",
+    "telefono": "3153344556"
+  }
+ 
+]

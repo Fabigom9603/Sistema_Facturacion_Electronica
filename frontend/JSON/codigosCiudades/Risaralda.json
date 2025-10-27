@@ -1,0 +1,16 @@
+[
+  {"Ciudad": "Pereira", "Departamento": "Risaralda", "CodigoDIAN": "66001"},
+  {"Ciudad": "Apía", "Departamento": "Risaralda", "CodigoDIAN": "66045"},
+  {"Ciudad": "Balboa", "Departamento": "Risaralda", "CodigoDIAN": "66075"},
+  {"Ciudad": "Belén De Umbría", "Departamento": "Risaralda", "CodigoDIAN": "66088"},
+  {"Ciudad": "Dosquebradas", "Departamento": "Risaralda", "CodigoDIAN": "66170"},
+  {"Ciudad": "Guática", "Departamento": "Risaralda", "CodigoDIAN": "66318"},
+  {"Ciudad": "La Celia", "Departamento": "Risaralda", "CodigoDIAN": "66383"},
+  {"Ciudad": "La Virginia", "Departamento": "Risaralda", "CodigoDIAN": "66400"},
+  {"Ciudad": "Marsella", "Departamento": "Risaralda", "CodigoDIAN": "66440"},
+  {"Ciudad": "Mistrató", "Departamento": "Risaralda", "CodigoDIAN": "66456"},
+  {"Ciudad": "Pueblo Rico", "Departamento": "Risaralda", "CodigoDIAN": "66572"},
+  {"Ciudad": "Quinchía", "Departamento": "Risaralda", "CodigoDIAN": "66594"},
+  {"Ciudad": "Santa Rosa De Cabal", "Departamento": "Risaralda", "CodigoDIAN": "66682"},
+  {"Ciudad": "Santuario", "Departamento": "Risaralda", "CodigoDIAN": "66687"}
+]

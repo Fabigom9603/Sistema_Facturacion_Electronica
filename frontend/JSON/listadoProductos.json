@@ -1,0 +1,342 @@
+[
+    {
+      "codigo": "TC1",
+      "nombreItem": "Botella Cocacola 2.5 lt",
+      "precioBaseUnitario": 10000,
+      "observacion": "Plastico reciclable",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "IBUA",
+          "claseImpuesto": "NM",
+          "tarifaTributo": 18,
+          "factor": 2500
+        }
+      ]
+    },
+    {
+      "codigo": "TC2",
+      "nombreItem": "Cerveza 330 ml",
+      "precioBaseUnitario": 1500,
+      "observacion": "Producto alcohólico",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "ICPD",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 8
+        }
+      ]
+    },
+    {
+      "codigo": "TC3",
+      "nombreItem": "Cigarrillos Marlboro",
+      "precioBaseUnitario": 2000,
+      "observacion": "Producto de tabaco",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "ICDN",
+          "claseImpuesto": "NM",
+          "tarifaTributo": 10,
+          "factor": 1000
+        }
+      ]
+    },
+    {
+      "codigo": "TC4",
+      "nombreItem": "Soda Dietética 1.5 lt",
+      "precioBaseUnitario": 3000,
+      "observacion": "Bebida sin azúcar",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 5
+        }
+      ]
+    },
+    {
+      "codigo": "TC5",
+      "nombreItem": "Zanahorias",
+      "precioBaseUnitario": 500,
+      "observacion": "Producto agrícola",
+      "unidad": "94",
+      "impuestos": [
+         {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC6",
+      "nombreItem": "Gaseosa Fanta 1 lt",
+      "precioBaseUnitario": 1500,
+      "observacion": "Bebida azucarada",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "IBUA",
+          "claseImpuesto": "NM",
+          "tarifaTributo": 15,
+          "factor": 2000
+        }
+      ]
+    },
+    {
+      "codigo": "TC7",
+      "nombreItem": "Leche en polvo",
+      "precioBaseUnitario": 3500,
+      "observacion": "Producto lácteo",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC8",
+      "nombreItem": "Papel Higiénico 12 unidades",
+      "precioBaseUnitario": 5000,
+      "observacion": "Higiene personal",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC9",
+      "nombreItem": "Café en polvo 500 g",
+      "precioBaseUnitario": 8000,
+      "observacion": "Café molido",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC10",
+      "nombreItem": "Hamburguesa congelada",
+      "precioBaseUnitario": 7000,
+      "observacion": "Alimento congelado",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        }
+      ]
+    },
+    {
+      "codigo": "TC11",
+      "nombreItem": "Papas fritas",
+      "precioBaseUnitario": 1200,
+      "observacion": "Snack envasado",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 5
+        }
+      ]
+    },
+    {
+      "codigo": "TC12",
+      "nombreItem": "Jugo de naranja 1 lt",
+      "precioBaseUnitario": 3000,
+      "observacion": "Bebida natural",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 5
+        }
+      ]
+    },
+    {
+      "codigo": "TC13",
+      "nombreItem": "Tomates",
+      "precioBaseUnitario": 800,
+      "observacion": "Producto agrícola",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC14",
+      "nombreItem": "Bistec de res",
+      "precioBaseUnitario": 12000,
+      "observacion": "Carne congelada",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        }
+      ]
+    },
+    {
+      "codigo": "TC15",
+      "nombreItem": "Lentejas",
+      "precioBaseUnitario": 2000,
+      "observacion": "Legumbres",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC16",
+      "nombreItem": "Galletas de chocolate",
+      "precioBaseUnitario": 1500,
+      "observacion": "Producto ultraprocesado",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "ICUI",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 10
+        }
+      ]
+    },
+    {
+      "codigo": "TC17",
+      "nombreItem": "Aceite de oliva 1 lt",
+      "precioBaseUnitario": 12000,
+      "observacion": "Aceite comestible",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 5
+        }
+      ]
+    },
+    {
+      "codigo": "TC18",
+      "nombreItem": "Kilos de arroz",
+      "precioBaseUnitario": 2500,
+      "observacion": "Producto agrícola",
+      "unidad": "94",
+      "impuestos": [
+          {
+          "tipo": "EXC",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 0
+        }
+      ]
+    },
+    {
+      "codigo": "TC19",
+      "nombreItem": "Refresco Sprite 1 lt",
+      "precioBaseUnitario": 1500,
+      "observacion": "Bebida azucarada",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        },
+        {
+          "tipo": "IBUA",
+          "claseImpuesto": "NM",
+          "tarifaTributo": 15,
+          "factor": 2000
+        }
+      ]
+    },
+    {
+      "codigo": "TC20",
+      "nombreItem": "Batería recargable",
+      "precioBaseUnitario": 3500,
+      "cantidad": 15,
+      "observacion": "Accesorio electrónico",
+      "unidad": "94",
+      "impuestos": [
+        {
+          "tipo": "IVA",
+          "claseImpuesto": "PO",
+          "tarifaTributo": 19
+        }
+      ]
+    },
+    {
+  "codigo": "TC21",
+  "nombreItem": "Bolsa Plástica",
+  "precioBaseUnitario": 200,
+  "cantidad": 1,
+  "observacion": "Bolsa plástica para empaque",
+  "unidad": "94", 
+  "impuestos": [
+    {
+      "tipo": "INCB",
+      "claseImpuesto": "NM",
+      "tarifaTributo": 70
+    }
+  ]
+}
+
+  ]
+
+
+
+
+
+
+
+
+

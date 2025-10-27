@@ -1,0 +1,21 @@
+[
+  { "Ciudad": "Yopal", "Departamento": "Casanare", "CodigoDIAN": "85001" },
+  { "Ciudad": "Aguazul", "Departamento": "Casanare", "CodigoDIAN": "85010" },
+  { "Ciudad": "Chameza", "Departamento": "Casanare", "CodigoDIAN": "85015" },
+  { "Ciudad": "Hato Corozal", "Departamento": "Casanare", "CodigoDIAN": "85125" },
+  { "Ciudad": "La Salina", "Departamento": "Casanare", "CodigoDIAN": "85136" },
+  { "Ciudad": "Maní", "Departamento": "Casanare", "CodigoDIAN": "85139" },
+  { "Ciudad": "Monterrey", "Departamento": "Casanare", "CodigoDIAN": "85162" },
+  { "Ciudad": "Nunchía", "Departamento": "Casanare", "CodigoDIAN": "85225" },
+  { "Ciudad": "Orocué", "Departamento": "Casanare", "CodigoDIAN": "85230" },
+  { "Ciudad": "Paz De Ariporo", "Departamento": "Casanare", "CodigoDIAN": "85250" },
+  { "Ciudad": "Pore", "Departamento": "Casanare", "CodigoDIAN": "85263" },
+  { "Ciudad": "Recetor", "Departamento": "Casanare", "CodigoDIAN": "85279" },
+  { "Ciudad": "Sabanalarga", "Departamento": "Casanare", "CodigoDIAN": "85300" },
+  { "Ciudad": "Sácama", "Departamento": "Casanare", "CodigoDIAN": "85315" },
+  { "Ciudad": "San Luis De Palenque", "Departamento": "Casanare", "CodigoDIAN": "85325" },
+  { "Ciudad": "Támara", "Departamento": "Casanare", "CodigoDIAN": "85400" },
+  { "Ciudad": "Tauramena", "Departamento": "Casanare", "CodigoDIAN": "85410" },
+  { "Ciudad": "Trinidad", "Departamento": "Casanare", "CodigoDIAN": "85430" },
+  { "Ciudad": "Villanueva", "Departamento": "Casanare", "CodigoDIAN": "85440" }
+]

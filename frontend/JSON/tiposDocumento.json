@@ -1,0 +1,21 @@
+[
+  { "nombre": "Cédula de ciudadanía", "codigo": "CC" },
+  { "nombre": "NIT", "codigo": "NI" },
+  { "nombre": "Tarjeta de identidad", "codigo": "TI" },
+  { "nombre": "Pasaporte", "codigo": "PA" },
+  { "nombre": "Tarjeta de extranjería", "codigo": "TE" },
+  { "nombre": "Cédula de extranjería", "codigo": "CE" },
+  { "nombre": "Registro civil de nacimiento", "codigo": "RC" },
+  { "nombre": "NIT de otro país", "codigo": "NO" },
+  { "nombre": "NUIP", "codigo": "NU" },
+  { "nombre": "Carné diplomático", "codigo": "CD" },
+  { "nombre": "Salvoconducto", "codigo": "SC" },
+  { "nombre": "Permiso Especial de Permanencia", "codigo": "PE" },
+  { "nombre": "Certificado de nacido vivo", "codigo": "CN" },
+  { "nombre": "Adulto sin identificar", "codigo": "AS" },
+  { "nombre": "Menor sin identificar", "codigo": "MS" },
+  { "nombre": "Documento extranjero", "codigo": "DE" },
+  { "nombre": "Sin identificación", "codigo": "SI" },
+  { "nombre": "Documento de identificación extranjero", "codigo": "DE" },
+  { "nombre": "PEP", "codigo": "PE" }
+]

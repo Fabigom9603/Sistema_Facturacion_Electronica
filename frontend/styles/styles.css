@@ -1,0 +1,132 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    height: auto;
+  overflow-y: auto;
+}
+.login-container {
+    background: white;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    width: 320px;
+}
+.login-container h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.login-container button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-container button:hover {
+    background-color: #0056b3;
+}
+.login-container .links {
+    text-align: center;
+    margin-top: 15px;
+}
+.login-container .links a {
+    display: block;
+    margin: 5px 0;
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+}
+.login-container .links a:hover {
+    text-decoration: underline;
+}
+
+
+  /* Contenedor del menú */
+  .menu-lateral {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 60px; /* Ancho cerrado */
+    background-color: #007bff;
+    overflow-x: hidden;
+    transition: width 0.3s;
+    padding-top: 20px;
+  }
+
+  /* Expandir el menú al pasar el cursor */
+  .menu-lateral:hover {
+    width: 200px; /* Ancho expandido */
+  }
+
+  /* Estilo de los links */
+  .menu-lateral a {
+    padding: 12px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+    white-space: nowrap; /* Evita que el texto se corte */
+  }
+
+  /* Cambiar color al pasar sobre los links */
+  .menu-lateral a:hover {
+    background-color: #020341;
+  }
+
+  /* Para el contenido principal */
+  .contenido {
+    margin-left: 60px; /* Dejar espacio para el menú cerrado */
+    padding: 20px;
+    transition: margin-left 0.3s;
+  }
+
+  /* Cuando el menú esté expandido */
+  .menu-lateral:hover ~ .contenido {
+    margin-left: 200px; /* Ajustar el espacio del contenido */
+  }
+
+  .img-logo{
+    height: 50px;
+    width: 100px;
+  }
+
+  .readonly-input {
+    background-color: #f8f9fa;
+    opacity: 0.8;
+    pointer-events: none; /* Opcional, para que no puedan hacer clic */
+  }
+
+ .modal-backdrop.show {
+  opacity: 0.1;
+}
+
+.text-blanco-hover-negro {
+  color: white;
+}
+
+.text-blanco-hover-negro:hover {
+  color: black;
+}
+
+.iframe-full {
+  width: 100%;
+  height: calc(100vh - 56px);
+  border: none;
+}

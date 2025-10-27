@@ -1,0 +1,18 @@
+[
+  { "Ciudad": "Florencia", "Departamento": "Caquetá", "CodigoDIAN": "18001" },
+  { "Ciudad": "Albania", "Departamento": "Caquetá", "CodigoDIAN": "18029" },
+  { "Ciudad": "Belén De Los Andaquíes", "Departamento": "Caquetá", "CodigoDIAN": "18094" },
+  { "Ciudad": "Cartagena Del Chairá", "Departamento": "Caquetá", "CodigoDIAN": "18150" },
+  { "Ciudad": "Curillo", "Departamento": "Caquetá", "CodigoDIAN": "18205" },
+  { "Ciudad": "El Doncello", "Departamento": "Caquetá", "CodigoDIAN": "18247" },
+  { "Ciudad": "El Paujil", "Departamento": "Caquetá", "CodigoDIAN": "18256" },
+  { "Ciudad": "La Montañita", "Departamento": "Caquetá", "CodigoDIAN": "18410" },
+  { "Ciudad": "Milán", "Departamento": "Caquetá", "CodigoDIAN": "18460" },
+  { "Ciudad": "Morelia", "Departamento": "Caquetá", "CodigoDIAN": "18479" },
+  { "Ciudad": "Puerto Rico", "Departamento": "Caquetá", "CodigoDIAN": "18592" },
+  { "Ciudad": "San José Del Fragua", "Departamento": "Caquetá", "CodigoDIAN": "18610" },
+  { "Ciudad": "San Vicente Del Caguán", "Departamento": "Caquetá", "CodigoDIAN": "18753" },
+  { "Ciudad": "Solano", "Departamento": "Caquetá", "CodigoDIAN": "18756" },
+  { "Ciudad": "Solita", "Departamento": "Caquetá", "CodigoDIAN": "18785" },
+  { "Ciudad": "Valparaíso", "Departamento": "Caquetá", "CodigoDIAN": "18860" }
+]
